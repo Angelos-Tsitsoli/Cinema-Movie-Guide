@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Cinema Guide</string>
+    <string name="title_activity_main">Cinema Guide</string>
+    <string name="package_name">com.aggelos.cinemaguide</string>
+    <string name="custom_url_scheme">com.aggelos.cinemaguide</string>
+</resources>
